@@ -4,14 +4,14 @@
         "havesub": "yes",
         "uid": 4,
         "key": "6JHIUHKG546KJG345JH4KG",
-        "sub_end": "2025-04-16"
+        "sub_end": "2025-04-16",
     },
     "1234": {
         "password": "1234",
         "havesub": "yes",
         "uid": 7,
         "key": "6JHIUHKG546KJG345JH4KG",
-        "sub_end": "2025-04-16"
+        "sub_end": "2025-04-16",
     },
     "12345": {
         "password": "123",
@@ -23,7 +23,7 @@
         "havesub": "yes",
         "uid": 1
         "key": "6JHIUHKG546KJG345JH4KG",
-        "sub_end": "2025-04-16"
+        "sub_end": "2025-04-16",
     },
     "RiverTT": {
         "password": "Rivertt",
