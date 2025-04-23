@@ -19,11 +19,8 @@
         "uid": 10
     },
     "dev": {
-        "password": "qwerty123",
-        "key": "XKZ3F8YJQ4LV97BWP2NT",
-        "hwid": "1fcf45677f62",
-        "havesub": "yes",
-        "sub_end": "2026-01-18",
+        "password": "20202012",
+        "havesub": "no",
         "uid": 1
     },
     "RiverTT": {
