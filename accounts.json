@@ -20,7 +20,7 @@
     },
     "dev": {
         "password": "20202012",
-        "havesub": "no",
+        "havesub": "yes",
         "uid": 1
     },
     "RiverTT": {
