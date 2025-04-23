@@ -16,12 +16,12 @@
     "12345": {
         "password": "123",
         "havesub": "yes",
-        "uid": 10
+        "uid": 10,
     },
     "dev": {
         "password": "20202012",
         "havesub": "yes",
-        "uid": 1
+        "uid": 1,
         "key": "6JHIUHKG546KJG345JH4KG",
         "sub_end": "2025-04-16",
     },
@@ -31,12 +31,12 @@
         "hwid": "1fcf45677f62",
         "havesub": "yes",
         "sub_end": "2025-12-26",
-        "uid": 2
+        "uid": 2,
     },
     "\u0446": {
         "password": "\u0446\u0446",
         "havesub": "no",
-        "uid": 3
+        "uid": 3,
     },
     "baciliibymifQ": {
         "password": "209830sigmaboy",
@@ -44,7 +44,7 @@
         "hwid": "9f3e48131a34",
         "havesub": "no",
         "sub_end": "no",
-        "uid": 5
+        "uid": 5,
     },
     "Dev": {
         "password": "devv",
@@ -52,23 +52,23 @@
         "hwid": "9f3e48131a340af9ef99cebcba7441be3e469c5c575ca320b295a54c4a5ca8bf",
         "havesub": "yes",
         "sub_end": "2025-12-09",
-        "uid": "Dev"
+        "uid": "Dev",
     },
     "b1terFUN": {
         "password": "q1werty1aprel100",
         "havesub": "no",
-        "uid": 82
+        "uid": 82,
     },
     "Dev1": {
         "password": "devv",
         "havesub": "no",
-        "uid": 9
+        "uid": 9,
     },
     "DEFA": {
         "password": "gooblyck777",
         "havesub": "yes",
         "uid": 83,
         "key": "ZV7JQ2NDY64XW8LFKP39",
-        "sub_end": "no"
+        "sub_end": "no",
     }
 }
